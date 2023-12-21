@@ -57,6 +57,7 @@ jupyterlab_server==2.25.2
 langchain==0.0.352
 langchain-community==0.0.5
 langchain-core==0.1.2
+langchain-experimental==0.0.47
 langsmith==0.0.73
 llmx==0.0.18a0
 loguru==0.7.2
